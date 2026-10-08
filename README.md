@@ -17,6 +17,8 @@
 O READ.ME é utilizado para a apresentação principal do projeto, sendo um tipo de cartão de visitas explicando como instalar e como funciona de forma simples e bem definida, ele é para o **publico-alvo** do seu projeto, por exemplo, uma atividade de escola seria para seu professor e colegas e deverá ser escrito da forma adequada a quem vai ler, outro exemplo seria um projeto de código aberto de algo como um protótipo de um jogo, nesse caso seria para o publico juvenil e deveria ser escrito de forma básica e direta para que todos entendam de um jeito simples.
 
 ### ❗DADOS FUNDAMENTAIS❗
-Como citado acima, o READ.ME precisa ter algumas coisas que são essenciais, como o **Titulo** para dar uma base de sobre o que o projeto é, **Descrição** para descrever passo a passo do funcionamento do projeto e para que deve ser utilizado, tecnologias utilizadas para mostrar quais tecnologias foram usadas para a base do seu projeto por exemplo uma linguagem de programação ou uma inteligência artificial que foi usada como auxilio, e por fim como realizar a instalação do projeto
+Como citado acima, o READ.ME precisa ter algumas coisas que são essenciais, como o **Titulo** para dar uma base de sobre o que o projeto é, **Descrição** para descrever passo a passo do funcionamento do projeto e para que deve ser utilizado, tecnologias utilizadas para mostrar quais tecnologias foram usadas para a base do seu projeto por exemplo uma linguagem de programação ou uma inteligência artificial que foi usada como auxilio, e por fim como realizar a instalação do projeto dando o passo a passo das ferramentas que devem ser utilizadas.
+
+###
 
 
