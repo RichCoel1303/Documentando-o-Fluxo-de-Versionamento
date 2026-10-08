@@ -1,4 +1,4 @@
-<img width="413" height="410" alt="booklivroGIFbyEditoraJuspodivm" src="https://github.com/user-attachments/assets/c294aa3a-a1b8-4a87-a77c-baae4b2863e0" /># Documentando o fluxo de versionamento
+# Documentando o fluxo de versionamento
 
 #**SESSÃO 1: CRIAÇÃO E ENVIO**
 
