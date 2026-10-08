@@ -11,7 +11,7 @@
 ## 📤PRIMEIRO ENVIO NO GITHUB📤
 **Envio:** Para realizar seu primeiro envio no GitHub temos algumas opções, por exemplo se for realizar no navegador é bem simples, dentro do seu repositório clique em **Add file**, e logo em seguida selecione o arquivo ou pasta desejados para o envio, porem pelo navegados temos a limitação de apenas 25mb no upload, já caso você resolva utilizar a outra opção, você pode utilizar comandos para realizar o upload no seu GitHub, primeiro entre no seu repositório local como ensinado acima, abra o GitBash, mude seu repositório atual para seu repositório local e utilize os comandos que estão indicados na explicação do topico acima.
 
-#**SESSÃO 2:** READ.ME PERFEITO
+# **SESSÃO 2:** READ.ME PERFEITO
 
 ## 📖PROPOSITO DO READ.ME📖
 O READ.ME é utilizado para a apresentação principal do projeto, sendo um tipo de cartão de visitas explicando como instalar e como funciona de forma simples e bem definida, ele é para o **publico-alvo** do seu projeto, por exemplo, uma atividade de escola seria para seu professor e colegas e deverá ser escrito da forma adequada a quem vai ler, outro exemplo seria um projeto de código aberto de algo como um protótipo de um jogo, nesse caso seria para o publico juvenil e deveria ser escrito de forma básica e direta para que todos entendam de um jeito simples.
